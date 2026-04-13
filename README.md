@@ -47,7 +47,12 @@ Hello! My name is Matheus Malaman, I am 19 years old and currently studying Syst
 </div>
 
 ---
+### 📊 Statistics
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheus130607&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheus130607&layout=compact&theme=tokyonight"/>
+</div>
 
 
 <br/><br/>
