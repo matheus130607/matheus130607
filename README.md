@@ -4,17 +4,17 @@
 
 # 👨🏻‍💻 Matheus Malaman
 
-**Desenvolvedor em formação**
+**Developer in training**
 
 ---
 
-### 👋 Sobre mim
+### 👋 About me
 
-Olá! Meu nome é Matheus Malaman, tenho 19 anos e atualmente estou cursando Técnico em Desenvolvimento de Sistemas no Senai Luis Varga. Tenho grande interesse pela área de tecnologia e sou apaixonado por programação, sempre buscando aprender novas linguagens, ferramentas e aprimorar minhas habilidades no desenvolvimento de sistemas.
+Hello! My name is Matheus Malaman, I am 19 years old and currently studying Systems Development at Senai Luis Varga. I have a strong interest in technology and I am passionate about programming, always seeking to learn new languages, tools, and improve my skills in software development.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -28,7 +28,7 @@ Olá! Meu nome é Matheus Malaman, tenho 19 anos e atualmente estou cursando Té
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <div align="left">
 
