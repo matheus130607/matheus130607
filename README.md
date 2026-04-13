@@ -53,12 +53,12 @@ Hello! My name is Matheus Malaman, I am 19 years old and currently studying Syst
 <div align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=matheus130607&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=matheus130607&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" 
   />
   
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus130607&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus130607&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400" 
   />
 </div>
 
