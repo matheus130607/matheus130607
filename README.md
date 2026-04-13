@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-Hello! My name is Matheus Malaman, I am 19 years old and currently studying Systems Development at Senai Luis Varga. I have a strong interest in technology and I am passionate about programming, always seeking to learn new languages, tools, and improve my skills in software development.
+Hello! My name is Matheus Malaman, I am 18 years old and currently studying Systems Development at Senai Luis Varga. I have a strong interest in technology and I am passionate about programming, always seeking to learn new languages, tools, and improve my skills in software development.
 
 ---
 
