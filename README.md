@@ -10,10 +10,10 @@
 
 ### 👋 About me
 
-Hello! My name is Matheus Malaman, I am 18 years old and currently pursuing a Technical Course in Systems Development at Senai Luis Varga. I am passionate about technology and enjoy building solutions through code, with a focus on creating efficient and practical applications, especially in web development.
+Hello! My name is Matheus Malaman, I am 18 years old and currently pursuing a Technical Course in Systems Development at Senai Luiz Varga. I am passionate about technology and enjoy building solutions through code, with a focus on creating efficient and practical applications, especially in web development.
 
 - 💼 Apprentice at Ajinomoto do Brasil  
-- 🎓 Systems Development (Senai Luis Varga)  
+- 🎓 Systems Development (Senai Luiz Varga)  
 
 ### 🎯 Professional Goal
 
