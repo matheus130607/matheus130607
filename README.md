@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 Matheus Malaman
 
-**Developer in training**
+**Developer**
 
 ---
 
