@@ -10,7 +10,7 @@
 
 ### 👋 About me
 
-Hello! My name is Matheus Malaman, I am 19 years old and currently pursuing a Technical Degree in Systems Development. I have a strong interest in technology and I am passionate about programming, always seeking to learn new languages, tools, and continuously improve my skills in software development.
+Hello! My name is Matheus Malaman, I am 18 years old and currently pursuing a Technical Course in Systems Development. I have a strong interest in technology and I am passionate about programming, always seeking to learn new languages, tools, and continuously improve my skills in software development.
 
 - 💼 Apprentice at Ajinomoto do Brasil  
 - 🎓 Currently pursuing Systems Development at Senai Luis Varga  
