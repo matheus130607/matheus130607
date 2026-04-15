@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 Matheus Malaman
 
-**Developer**
+**Transforming ideas into code 🚀 | Aspiring Developer**
 
 ---
 
